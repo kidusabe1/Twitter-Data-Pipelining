@@ -24,13 +24,13 @@ They also have great documentation to teach me how to use their API: https://dev
 Additionally, they provide a starter code demonstrating how to retrieve data from the API based on my explorations in the API explorer. 
 Here is the starter code I used👇🏽
 
-```# -*- coding: utf-8 -*-
+# -*- coding: utf-8 -*-
 
 # Sample Python code for youtube.commentThreads.list
 # See instructions for running these code samples locally:
 # https://developers.google.com/explorer-help/code-samples#python
 
-import os
+```import os
 
 import googleapiclient.discovery
 
